@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="6" passed="5" failed="0" skipped="1">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-05-20T08:39:33Z" name="Suite" finished-at="2025-05-20T08:39:33Z" duration-ms="24">
+    <groups>
+    </groups>
+    <test started-at="2025-05-20T08:39:33Z" name="Test" finished-at="2025-05-20T08:39:33Z" duration-ms="24">
+      <class name="TestFile1">
+        <test-method signature="testcase1(java.lang.String)[pri:0, instance:TestFile1@1e0b4072]" started-at="2025-05-20T14:09:33Z" name="testcase1" data-provider="testData" finished-at="2025-05-20T14:09:33Z" duration-ms="0" status="SKIP">
+          <exception class="org.testng.TestNGException">
+            <message>
+              <![CDATA[
+Data Provider public java.lang.Object[] TestFile1.testData() must return either Object[][] or Iterator<Object>[], not class [Ljava.lang.Object;]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.testng.TestNGException: 
+Data Provider public java.lang.Object[] TestFile1.testData() must return either Object[][] or Iterator<Object>[], not class [Ljava.lang.Object;
+	at org.testng.internal.MethodInvocationHelper.invokeDataProvider(MethodInvocationHelper.java:156)
+	at org.testng.internal.Parameters.handleParameters(Parameters.java:430)
+	at org.testng.internal.Invoker.handleParameters(Invoker.java:1270)
+	at org.testng.internal.Invoker.createParameters(Invoker.java:985)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1075)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:108)
+	at org.testng.TestRunner.privateRun(TestRunner.java:774)
+	at org.testng.TestRunner.run(TestRunner.java:624)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:359)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:354)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:312)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:261)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1191)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1116)
+	at org.testng.TestNG.run(TestNG.java:1024)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:308)
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:71)
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:113)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:385)
+	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:162)
+	at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:507)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.testng.TestNGException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase1 -->
+        <test-method signature="testcase2()[pri:0, instance:TestFile1@1e0b4072]" started-at="2025-05-20T14:09:33Z" name="testcase2" finished-at="2025-05-20T14:09:33Z" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase2 -->
+        <test-method signature="testcase4()[pri:0, instance:TestFile1@1e0b4072]" started-at="2025-05-20T14:09:33Z" name="testcase4" finished-at="2025-05-20T14:09:33Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase4 -->
+        <test-method signature="testcase3()[pri:0, instance:TestFile1@1e0b4072]" started-at="2025-05-20T14:09:33Z" name="testcase3" finished-at="2025-05-20T14:09:33Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase3 -->
+        <test-method signature="testcase5()[pri:0, instance:TestFile1@1e0b4072]" started-at="2025-05-20T14:09:33Z" name="testcase5" finished-at="2025-05-20T14:09:33Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase5 -->
+        <test-method signature="testcase6()[pri:0, instance:TestFile1@1e0b4072]" started-at="2025-05-20T14:09:33Z" name="testcase6" finished-at="2025-05-20T14:09:33Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase6 -->
+      </class> <!-- TestFile1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

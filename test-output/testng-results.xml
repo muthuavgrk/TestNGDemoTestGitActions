@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="10" passed="10" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-05-20T13:40:06 IST" name="Suite" finished-at="2025-05-20T13:40:07 IST" duration-ms="97">
+    <groups>
+    </groups>
+    <test started-at="2025-05-20T13:40:06 IST" name="Test" finished-at="2025-05-20T13:40:07 IST" duration-ms="97">
+      <class name="TestFile1">
+        <test-method signature="testcase1(java.lang.String)[pri:0, instance:TestFile1@10163d6]" started-at="2025-05-20T13:40:06 IST" name="testcase1" data-provider="testData" finished-at="2025-05-20T13:40:06 IST" duration-ms="4" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[hi]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase1 -->
+        <test-method signature="testcase1(java.lang.String)[pri:0, instance:TestFile1@10163d6]" started-at="2025-05-20T13:40:06 IST" name="testcase1" data-provider="testData" finished-at="2025-05-20T13:40:06 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[there]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase1 -->
+        <test-method signature="testcase1(java.lang.String)[pri:0, instance:TestFile1@10163d6]" started-at="2025-05-20T13:40:06 IST" name="testcase1" data-provider="testData" finished-at="2025-05-20T13:40:06 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[how]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase1 -->
+        <test-method signature="testcase1(java.lang.String)[pri:0, instance:TestFile1@10163d6]" started-at="2025-05-20T13:40:06 IST" name="testcase1" data-provider="testData" finished-at="2025-05-20T13:40:06 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[are]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase1 -->
+        <test-method signature="testcase1(java.lang.String)[pri:0, instance:TestFile1@10163d6]" started-at="2025-05-20T13:40:06 IST" name="testcase1" data-provider="testData" finished-at="2025-05-20T13:40:06 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[you]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase1 -->
+        <test-method signature="testcase2()[pri:0, instance:TestFile1@10163d6]" started-at="2025-05-20T13:40:07 IST" name="testcase2" finished-at="2025-05-20T13:40:07 IST" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase2 -->
+        <test-method signature="testcase3()[pri:0, instance:TestFile1@10163d6]" started-at="2025-05-20T13:40:07 IST" name="testcase3" finished-at="2025-05-20T13:40:07 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase3 -->
+        <test-method signature="testcase4()[pri:0, instance:TestFile1@10163d6]" started-at="2025-05-20T13:40:07 IST" name="testcase4" finished-at="2025-05-20T13:40:07 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase4 -->
+        <test-method signature="testcase5()[pri:0, instance:TestFile1@10163d6]" started-at="2025-05-20T13:40:07 IST" name="testcase5" finished-at="2025-05-20T13:40:07 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase5 -->
+        <test-method signature="testcase6()[pri:0, instance:TestFile1@10163d6]" started-at="2025-05-20T13:40:07 IST" name="testcase6" finished-at="2025-05-20T13:40:07 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase6 -->
+      </class> <!-- TestFile1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
