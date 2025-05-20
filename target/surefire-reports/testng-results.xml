@@ -2,12 +2,12 @@
 <testng-results total="6" passed="5" failed="0" skipped="1">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-05-20T10:00:19Z" name="Suite" finished-at="2025-05-20T10:00:19Z" duration-ms="20">
+  <suite started-at="2025-05-20T10:06:31Z" name="Suite" finished-at="2025-05-20T10:06:31Z" duration-ms="18">
     <groups>
     </groups>
-    <test started-at="2025-05-20T10:00:19Z" name="Test" finished-at="2025-05-20T10:00:19Z" duration-ms="20">
+    <test started-at="2025-05-20T10:06:31Z" name="Test" finished-at="2025-05-20T10:06:31Z" duration-ms="18">
       <class name="TestFile1">
-        <test-method signature="testcase1(java.lang.String)[pri:0, instance:TestFile1@1e0b4072]" started-at="2025-05-20T15:30:19Z" name="testcase1" data-provider="testData" finished-at="2025-05-20T15:30:19Z" duration-ms="0" status="SKIP">
+        <test-method signature="testcase1(java.lang.String)[pri:0, instance:TestFile1@1e0b4072]" started-at="2025-05-20T15:36:31Z" name="testcase1" data-provider="testData" finished-at="2025-05-20T15:36:31Z" duration-ms="0" status="SKIP">
           <exception class="org.testng.TestNGException">
             <message>
               <![CDATA[
@@ -47,23 +47,23 @@ Data Provider public java.lang.Object[] TestFile1.testData() must return either 
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testcase1 -->
-        <test-method signature="testcase2()[pri:0, instance:TestFile1@1e0b4072]" started-at="2025-05-20T15:30:19Z" name="testcase2" finished-at="2025-05-20T15:30:19Z" duration-ms="5" status="PASS">
+        <test-method signature="testcase2()[pri:0, instance:TestFile1@1e0b4072]" started-at="2025-05-20T15:36:31Z" name="testcase2" finished-at="2025-05-20T15:36:31Z" duration-ms="3" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testcase2 -->
-        <test-method signature="testcase3()[pri:0, instance:TestFile1@1e0b4072]" started-at="2025-05-20T15:30:19Z" name="testcase3" finished-at="2025-05-20T15:30:19Z" duration-ms="1" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- testcase3 -->
-        <test-method signature="testcase4()[pri:0, instance:TestFile1@1e0b4072]" started-at="2025-05-20T15:30:19Z" name="testcase4" finished-at="2025-05-20T15:30:19Z" duration-ms="0" status="PASS">
+        <test-method signature="testcase4()[pri:0, instance:TestFile1@1e0b4072]" started-at="2025-05-20T15:36:31Z" name="testcase4" finished-at="2025-05-20T15:36:31Z" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testcase4 -->
-        <test-method signature="testcase6()[pri:0, instance:TestFile1@1e0b4072]" started-at="2025-05-20T15:30:19Z" name="testcase6" finished-at="2025-05-20T15:30:19Z" duration-ms="0" status="PASS">
+        <test-method signature="testcase3()[pri:0, instance:TestFile1@1e0b4072]" started-at="2025-05-20T15:36:31Z" name="testcase3" finished-at="2025-05-20T15:36:31Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase3 -->
+        <test-method signature="testcase6()[pri:0, instance:TestFile1@1e0b4072]" started-at="2025-05-20T15:36:31Z" name="testcase6" finished-at="2025-05-20T15:36:31Z" duration-ms="2" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testcase6 -->
-        <test-method signature="testcase5()[pri:0, instance:TestFile1@1e0b4072]" started-at="2025-05-20T15:30:19Z" name="testcase5" finished-at="2025-05-20T15:30:19Z" duration-ms="0" status="PASS">
+        <test-method signature="testcase5()[pri:0, instance:TestFile1@1e0b4072]" started-at="2025-05-20T15:36:31Z" name="testcase5" finished-at="2025-05-20T15:36:31Z" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testcase5 -->
